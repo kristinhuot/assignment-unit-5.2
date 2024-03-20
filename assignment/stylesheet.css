@@ -1,0 +1,14 @@
+.title {
+    background-color:#361D2E;
+    color:#CBC0AD; 
+    text-align: center;
+}
+.intro{
+    background-color:#b2b2b2;
+    padding: 1em;
+}
+body{
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
